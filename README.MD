@@ -1,1 +1,1 @@
-This UI was created for Practice purpose and design by Topskill it is a Food Home page which diffrent type of food available and testimonies from customers. 
+This UI was created for Practice purpose and design by Topskill it is a Food Home page which diffrent type of food Recipe available and testimonies from customers. 
